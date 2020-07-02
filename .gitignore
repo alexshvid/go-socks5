@@ -20,3 +20,10 @@ _cgo_export.*
 _testmain.go
 
 *.exe
+
+socks5/socks5
+socks5/socks5.log
+socks5.log
+
+
+.idea/
